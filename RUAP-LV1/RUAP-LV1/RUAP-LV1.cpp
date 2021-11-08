@@ -6,7 +6,11 @@
 int main()
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
     std::cout << "Pozdrav iz aplikacije od Domagoja Dragiæa, broj indeksa: 01653215723517\n";
+=======
+    std::cout << "Pozdrav iz aplikacije od Domagoja Dragiæa\n";
+>>>>>>> e11bfeb (prvi zadatak labosa)
 =======
     std::cout << "Pozdrav iz aplikacije od Domagoja Dragiæa\n";
 >>>>>>> e11bfeb (prvi zadatak labosa)
